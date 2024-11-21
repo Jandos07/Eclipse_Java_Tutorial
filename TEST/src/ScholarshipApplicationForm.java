@@ -68,7 +68,7 @@
 	    }
 	
 	    // Method to add form labels and text fields
-	    private void addFormFields() {
+	    private void addFormFields() { 
 	        labelName = new JLabel("Name:");
 	        labelName.setHorizontalAlignment(SwingConstants.RIGHT);
 	        eastPanel.add(labelName);
