@@ -75,7 +75,7 @@
 	        inputName = new JTextField();
 	        eastPanel.add(inputName);
 	
-	        labelStudentID = new JLabel("Student ID:");
+	        labelStudentID = new JLabel("Student ID:");	
 	        labelStudentID.setHorizontalAlignment(SwingConstants.RIGHT);
 	        eastPanel.add(labelStudentID);
 	        inputStudentID = new JTextField();
