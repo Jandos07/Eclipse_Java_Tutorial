@@ -39,7 +39,7 @@
 	        // Right Panel for Form Fields
 	        eastPanel = new JPanel();
 	        eastPanel.setBackground(Color.WHITE);
-	        eastPanel.setLayout(new GridLayout(10, 2, 5, 5));
+	        eastPanel.setLayout(new GridLayout(10, 2, 10, 6));
 	        eastPanel.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
 	
 	        // Add labels and text fields to eastPanel
